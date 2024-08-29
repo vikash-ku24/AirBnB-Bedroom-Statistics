@@ -1,7 +1,7 @@
 Access the project [documents](https://drive.google.com/drive/folders/1-yvq0cWNNjc0mP8mab_x8D2cN-S_QZBS?usp=sharing) here.
 
 
-# AirBnB Sales Bedroom Statistics Dashboard
+# AirBnB Sales Bedroom Statistics Dashboard -Tableau
 
 ## Project Overview
 
